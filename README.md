@@ -1,11 +1,11 @@
-### ds-digit.ttf
+## ds-digit.ttf
 
 ![](./assets/20220120110710.png)
 
 
 
 
-### css使用方法
+## css使用方法
 
 ```
 @font-face {
